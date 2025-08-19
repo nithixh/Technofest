@@ -1,5 +1,5 @@
 
-🎓 Online Exam Proctoring System
+🎓 Anti Spoofing System for Online Exams
 
 An AI-powered online exam monitoring application built with Streamlit, OpenCV, YOLOv8, and DeepFace.
 The system ensures fairness and security in remote exams by monitoring both the student and their environment in real time.
