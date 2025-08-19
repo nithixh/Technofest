@@ -1,4 +1,3 @@
-#Technofest
 
 🎓 Online Exam Proctoring System
 
